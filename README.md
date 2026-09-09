@@ -1,1 +1,1 @@
-# GPT-2-From-Scratch
+# Character-Level GPT From Scratch
